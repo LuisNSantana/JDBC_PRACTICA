@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ciberkaos023@vl21970.dinaserver.com" uuid="e68e3305-0786-459c-a37a-348846e2d3da">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://vl21970.dinaserver.com:3306/ciberkaos023</jdbc-url>
+    </data-source>
+  </component>
+</project>
